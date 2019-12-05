@@ -5,3 +5,7 @@ You can submit issues, balance, and feature requests here.
 <br />Make sure you have a GitHub Account
 
 <br />If you go to Projects at the top-bar you can view our plans!
+<br />----------------------------------------------------------------
+
+<br />
+<br />Discord: https://discord.gg/CLRP
