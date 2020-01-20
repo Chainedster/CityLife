@@ -5,6 +5,7 @@ You can submit issues, balance, and feature requests here.
 <br />Make sure you have a GitHub Account
 
 <br />If you go to Projects at the top-bar you can view our plans!
-<br />----------------------------------------------------------------
+<br /><hr>
 
-<br />Discord: https://discord.gg/CLRP
+<br />If you want to support CityLife we would appreciate it! All donations go to covering the cost of running and maintaining the server!
+<br />Official Discord: https://discord.gg/CLRP
