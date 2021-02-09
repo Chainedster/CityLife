@@ -9,4 +9,4 @@ You can submit issues, balance, and feature requests here.
 
 <br />If you want to support CityLife we would appreciate it! All donations go to covering the cost of running and maintaining the server! ❤
 <br /><hr>
-<br />Official Discord: https://discord.gg/CLRP
+<br />Official Discord: https://Discord.gg/CLRP
